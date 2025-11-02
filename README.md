@@ -16,7 +16,7 @@ point you may want to clear the dev tools console history to remove any
 pre-existing messages.
 
 > [!NOTE]
-> You can ignore the files in `./devcontainer/` and `/assets/` for the
+> You can ignore the files in `/devcontainer` and `/assets` for the
 > purposes of the interview.
 
 Questions? Send us a message on Handshake!
